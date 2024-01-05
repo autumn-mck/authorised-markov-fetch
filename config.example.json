@@ -1,0 +1,7 @@
+{
+	"db_path": "posts.db",
+	"instance": "example.org",
+	"access_token": "token_string",
+	"expected_acct": "username",
+	"fetch_back_to": "2020-01-01T00:00:00Z"
+}

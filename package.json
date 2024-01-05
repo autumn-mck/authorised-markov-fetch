@@ -1,0 +1,16 @@
+{
+	"name": "markoving",
+	"license": "GPL-3.0",
+	"module": "./src/index.ts",
+	"type": "module",
+	"scripts": {
+		"dev": "bun ./src/index.ts"
+	},
+	"devDependencies": {
+		"bun-types": "^1.0.4"
+	},
+	"dependencies": {
+		"typescript": "^5.2.2",
+		"cheerio": "^1.0.0-rc.12"
+	}
+}
